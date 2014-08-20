@@ -1,4 +1,4 @@
-flatuikit
+FLAT UI KIT
 =========
 
-Flat UI Kit
+PSD, HTML and CSS
